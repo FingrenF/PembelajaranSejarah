@@ -37,34 +37,34 @@ It manages **countries**, **historical events**, and their **relationships**, al
 Below are the main interfaces implemented in the application:
 
 ### 📘 Data Displays
-**Country List**
+**Country List**  
 ![dataNegara](./Screenshot/dataNegara.png)
 
-**Event List**
+**Event List**  
 ![dataKejadian](./Screenshot/dataKejadian.png)
 
-**Country–Event Relationship**
+**Country–Event Relationship**  
 ![dataHubungan](./Screenshot/dataHubungan.png)
 
 ---
 
 ### ✏️ Input Forms
-**Add Country**
+**Add Country**  
 ![inputN](./Screenshot/inputN.png)
 
-**Add Event**
+**Add Event**  
 ![inputK](./Screenshot/inputK.png)
 
-**Add Relationship**
+**Add Relationship**  
 ![inputH](./Screenshot/inputH.png)
 
 ---
 
 ### 🎓 Learning and Quiz Features
-**Learning by Country**
+**Learning by Country**  
 ![belajarNegara](./Screenshot/belajarNegara.png)
 
-**Quiz Feature**
+**Quiz Feature**  
 ![kuis](./Screenshot/kuis.png)
 
 ---

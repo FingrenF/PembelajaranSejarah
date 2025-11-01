@@ -32,13 +32,40 @@ It manages **countries**, **historical events**, and their **relationships**, al
 
 ---
 
-## 🖼️ Interface Proof
+## 🖼️ Application Interface
 
-Below is a screenshot showing the available interface menus implemented in the application:
+Below are the main interfaces implemented in the application:
 
-![Interface Proof](./Screenshot/namafile.png)
+### 📘 Data Displays
+**Country List**
+![dataNegara](./Screenshot/dataNegara.png)
 
-> The image above shows the main menus of the application, including data management, input forms, learning mode, and quiz features.
+**Event List**
+![dataKejadian](./Screenshot/dataKejadian.png)
+
+**Country–Event Relationship**
+![dataHubungan](./Screenshot/dataHubungan.png)
+
+---
+
+### ✏️ Input Forms
+**Add Country**
+![inputN](./Screenshot/inputN.png)
+
+**Add Event**
+![inputK](./Screenshot/inputK.png)
+
+**Add Relationship**
+![inputH](./Screenshot/inputH.png)
+
+---
+
+### 🎓 Learning and Quiz Features
+**Learning by Country**
+![belajarNegara](./Screenshot/belajarNegara.png)
+
+**Quiz Feature**
+![kuis](./Screenshot/kuis.png)
 
 ---
 

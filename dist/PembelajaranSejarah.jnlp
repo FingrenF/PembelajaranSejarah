@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="PembelajaranSejarah.jnlp">
+  <information>
+    <title>PembelajaranSejarah</title>
+    <vendor>Lenovo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="PembelajaranSejarah.jar" size="273602" download="eager" />
+    <jar href="lib\mysql-connector-j-8.0.32.jar" size="2480823" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="pembelajaransejarah.PembelajaranSejarah"  name="PembelajaranSejarah" />
+  <update check="always"/>
+</jnlp>
